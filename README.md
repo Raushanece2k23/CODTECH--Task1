@@ -1,1 +1,7 @@
 # CODTECH--Task1
+Name:Raushan kumar
+Company:CODTECH IT SOLUTIONS
+ID:CT04PP2320
+Domain:PYTHON PROGRAMMING
+Duration:15th June to 12th July 2024
+Mentor:G.SRAVANI
